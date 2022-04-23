@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Franklin Furtado</h1>
+<h1 align="center">Hi 👋, i'am Franklin Furtado</h1>
 <h3 align="center">Here you can find JavaSE, JavaEE, Angular, Firebase projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franklinfurtado&label=Profile%20views&color=0e75b6&style=flat" alt="franklinfurtado" /> </p>
